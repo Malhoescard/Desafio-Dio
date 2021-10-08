@@ -2,4 +2,5 @@
 Primeiro repositório
 
 ## links  ulteis
-[Markdown]_(https://ww.mardonguide.org./getting-started/)
+[MARCKDOWN](https://www.markdownguide.org/getting-started/)
+
