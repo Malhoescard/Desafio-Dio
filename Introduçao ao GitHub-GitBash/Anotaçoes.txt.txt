@@ -1,0 +1,15 @@
+Link para download do Git: https://git-scm.com/downloads
+O git Bash e um terminal estendido para ultilizar o uso do git.
+
+Link para download do vs code: https://code.visualstudio.com/download
+Melhor plataforma de criar codigos.
+
+Encontrar um direcionamento talvez seja o passo mais importante,
+quando se tem algo especifico assimilar e fazer uma junçao de tudo vai ficando mais claro e começa a abrir espaço para ideias e inovaçao.
+É importante também não se limitar a livros e outros materiais teóricos, mas buscar treinar a parte pratica. Ou seja, não vale somente ler sem exercitar. Programação é como um músculo: você precisa de prática para estimular o crescimento e desenvolvimento nao importa o tamanho do progresso mediante a evoluçao. Outro ponto que auxilia bastante nessa etapa inicial é utilizar exercícios rápidos para solidificar o aprendizado. Pequenos desafios, como operações entre números, são bons para treinar e estimular a desenvoltura com as regras da linguagem e experimentar as boas práticas de programação. É interessante tentar se desafiar a buscar formas diferentes de chegar a um mesmo resultado, o que tem me ajudado nessa etapa de aprendizado e ir copiando e acompanhando alguns progetos sendo iniciados e refazando e entendo a magia dos codigos.
+
+Outra estratégia é seguir tutoriais prontos sobre como resolver problemas específicos. O bom desses conteúdos é que eles são extremamente didáticos e ajudam a avançar passo a passo na superação de algum desafio, assim como esse sobre anotaçes. 
+
+Obrigado seguimos em frente...
+
+FIM
